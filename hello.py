@@ -1,2 +1,2 @@
-#!add conding:utf-8
+#!/usr/bin/env python1
 print('hello,world.')
