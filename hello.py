@@ -1,2 +1,2 @@
-#!/use/bin/env python
+#!add conding:utf-8
 print('hello,world.')
